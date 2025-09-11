@@ -26,3 +26,6 @@ Recursos:
 | **GitHub Flow** | - Simple y fácil de adoptar.<br>- Branches cortos, feedback rápido.<br>- `main` siempre estable y desplegable. | - No es ideal para proyectos con varias versiones activas.<br>- Riesgo si no hay buenos tests.<br>- Puede generar conflictos en equipos grandes. |
 | **Trunk-Based Development** | - Merges frecuentes → menos conflictos.<br>- Excelente para CI/CD y deploys rápidos.<br>- Visibilidad del trabajo en curso.<br>- Uso de feature flags para activar/desactivar features. | - Requiere disciplina y CI robusto.<br>- Puede ser desafiante para desarrolladores nuevos.<br>- Coordinar cambios grandes puede ser complejo. |
 
+---
+
+[+ Volver al índice](../INDICE.md)
