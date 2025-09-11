@@ -1,3 +1,7 @@
+[+ Volver al índice](../INDICE.md)
+
+---
+
 # Estrategias de branching en Git
 
 Les comparto estos recursos que me parecieron interesantes sobre las distintas estrategias de branching en Git, con sus pros y contras. Nosotros vimos principalmente **GitFlow**, pero me pareció copado ver que otros modelos existen y en qué casos conviene usar uno u otro.  
