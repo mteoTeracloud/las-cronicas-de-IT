@@ -33,7 +33,8 @@ Lo importante es que quede en Markdown y aparezca en el archivo central (`INDICE
 
 ---
 
-## 📂 Estructura del repo├─ CRONOLOGIA.md # Cronología con anécdotas y eventos
+## 📂 Estructura del repo
+├─ CRONOLOGIA.md # Cronología con anécdotas y eventos
 ├─ INDICE.md # Índice de capítulos y recursos
 ├─ CAPITULOS/ # Capítulos individuales en Markdown
 │ ├─ recurso-cheatsheet-git.md
