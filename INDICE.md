@@ -12,11 +12,13 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 
 - 11/09 - *agustin-aporte-k8s* (apunte práctico sobre k8s, la próxima subo un meme :D) → [📎 Abrir](CAPITULOS/agustin-aporte-k8s.md)
 
-- 11/09 - *cumple-meme-matheus* (hoy es mi cumple y estoy de buen humor. Les dejo un meme dedicado a nuestro mentor Matheus. PD: Perdón Matheus, me lo dejaste en bandeja) → [📎 Abrir](CAPITULOS/e-castel-tristeza-nao-tem-fim.md)
+- 11/09 - *cumple-meme-matheus* (Bueno, la verdad nose que poner sinceramente. Hoy es mi cumple y estoy de buen humor.  Con lo cual les dejo un buen meme dedicado a nuestro mentor Matheus. PD: Perdon Matheus, me lo dejaste en bandeja.) → [📎 Abrir](CAPITULOS/e-castel-tristeza-nao-tem-fim.md)
 
-- 11/09 - *cheatsheet-linux* (comandos básicos de Linux) → [📎 Abrir](CAPITULOS/linux-cheatsheet.md)
+- 11/09 - *cheatsheet-linux* (cheatsheet de comandos basicos de linux) → [📎 Abrir](CAPITULOS/linux-cheatsheet.md)
 
-- 11/09 - *cheatsheet-git* (comandos básicos de Git) → [📎 Abrir](CAPITULOS/git_cheat_sheet.md)
+- 11/09 - *cheatsheet-git* (cheatsheet de comando basico de Git) → [📎 Abrir](CAPITULOS/git_cheat_sheet.md)
 
 - 11/09 - *cheesecake-bash* (cómo crear un cheesecake con comandos de Bash) → [📎 Abrir](CAPITULOS/cocinando-bash.md)
+
+- 11/09 - *cheatsheet-MA* (cheatsheet de metodologías ágiles) -> [📎 Abrir](CAPITULOS/metodologias-agiles.md)
 
