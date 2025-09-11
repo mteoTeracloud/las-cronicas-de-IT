@@ -4,3 +4,4 @@
 No importa si es útil, absurdo o gracioso: lo importante es que figure en el índice y tenga su archivo en `CAPITULOS/`.  
 
 10/09 - begin (cree el archivo para poder añadir la carpeta de capitulos XDD)
+11/09 - agustin-aporte-k8s (apunte práctico sobre k8s, la próxima subo un meme :D)
