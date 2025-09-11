@@ -24,3 +24,5 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 
 - 11/09 - *eze-aporte* (eso q me intereso el tema e investigue un poquito. muy buenos los aportes de todos y los memes) -> [📎 Abrir](CAPITULOS/estrategias_branching.md)
 
+- 11/09 - *cheatsheet-bash-scripting* (cheatsheet de scripting en bash) -> [📎 Abrir](CAPITULOS/bash-scripting-cheatsheet.md)
+
