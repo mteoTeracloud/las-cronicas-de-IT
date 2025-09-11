@@ -1,3 +1,7 @@
+[+ Volver al índice](../INDICE.md)
+
+---
+
 # 🔑 Git y las llaves mágicas (SSH)
 
 ## 📌 Problema
@@ -109,3 +113,6 @@ Así no hay peleas de acceso ni dramas de permisos. 😉
 
 - [Clonar Repositorio de github con ssh en Ubuntu-Debian](https://www.youtube.com/watch?v=1ZjnowjLHug)
 
+---
+
+[+ Volver al índice](../INDICE.md)

@@ -1,3 +1,7 @@
+[+ Volver al índice](../INDICE.md)
+
+---
+
 # Comandos Bash: Una Receta de Cheesecake 🍰
 
 *Porque aprender bash es como cocinar: al principio quemás todo, pero después sale rico*
@@ -282,3 +286,7 @@ La diferencia es que en bash, si la cagás, no se quema la cocina... solo tu pac
 *¡Que disfrutes cocinando con bash! Y recordá: la práctica hace al maestro... chef... programador... ¡lo que sea! 🍰👨‍💻*
 
 **PD:** Si tu cheesecake sale mal, siempre podés `rm -rf cheesecake_desastre/` y empezar de nuevo. En la vida real no es tan fácil... 😉
+
+---
+
+[+ Volver al índice](../INDICE.md)

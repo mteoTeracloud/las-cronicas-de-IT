@@ -1,3 +1,4 @@
+[+ Volver al índice](../INDICE.md)
 
 ---
 
@@ -128,4 +129,6 @@ Comandos para modificarlos:
 * **`tldr comando`** → versión resumida de `man` con ejemplos prácticos.
 
 ---
+
+[+ Volver al índice](../INDICE.md)
 

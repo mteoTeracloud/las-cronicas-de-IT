@@ -1,3 +1,6 @@
+[+ Volver al índice](../INDICE.md)
+
+---
 
 # Kubernetes (K8s)
 
@@ -28,3 +31,6 @@ Kubernetes (K8s) es una plataforma de código abierto para automatizar la implem
 | `kubectl logs <nombre-del-pod>`             | Muestra la salida (logs) de un contenedor.                            |
 | `kubectl exec -it <nombre-del-pod> -- bash` | Abre una terminal interactiva dentro de un Pod.                       |
 
+---
+
+[+ Volver al índice](../INDICE.md)
