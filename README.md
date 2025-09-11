@@ -61,3 +61,7 @@ Lo importante es que quede en Markdown y aparezca en el archivo central (`INDICE
 
 Compartir apuntes, anécdotas y recursos que acompañen al curso.  
 Lo más importante no es la seriedad del aporte, sino que compartas algo que pueda llegar a ser útil, uses Git, te equivoques, resuelvas conflictos y aprendas en el proceso. 🚀
+
+---
+
+[+ Ir al índice](./INDICE.md)
