@@ -12,5 +12,6 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 - 11/09 - cheatsheet de comandos basicos de linux
 - 11/09 - cheatsheet de comando basico de Git
 - 11/09 - Como crear un cheescake con comandos de Bash🍰
+- 11/09 - cheatsheet de metodologías ágiles
 
 
