@@ -26,3 +26,5 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 
 - 11/09 - *cheatsheet-bash-scripting* (cheatsheet de scripting en bash) -> [📎 Abrir](CAPITULOS/bash-scripting-cheatsheet.md)
 
+- 11/09 - *cheatsheet-TDD* (qué es TDD y por qué usarlo; enfoque conceptual claro) → [📎 Abrir](CAPITULOS/santino-tdd.md)
+
