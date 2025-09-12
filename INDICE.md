@@ -29,3 +29,5 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 - 11/09 - *cheatsheet-TDD* (qué es TDD y por qué usarlo; enfoque conceptual claro) → [📎 Abrir](CAPITULOS/santino-tdd.md)
 
 - 11/09 - *julian-git-stash-rebase* (cheatsheet de `git stash` + mini aporte de merge vs rebase) → [📎 Abrir](CAPITULOS/julian-git-stash-rebase.md)
+
+- 12/09 - *federico-santi_tips-para-productividad.md* (Tips para mejorar la productividad para linux y windows basandose en experiencias previas) → [📎 Abrir](CAPITULOS/federico-santi_tips-para-productividad.md)
