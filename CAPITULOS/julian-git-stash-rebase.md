@@ -1,3 +1,6 @@
+[+ Volver al índice](../INDICE.md)
+
+---
 # Cheatsheet Git: Stash + Diferencia entre Merge y Rebase
 
 ---
