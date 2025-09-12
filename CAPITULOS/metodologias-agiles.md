@@ -52,3 +52,7 @@
 ---
 
 **Recuerda**: El método importa, pero la colaboración es lo más importante. [cite_start]Agile es un medio, no un fin[cite: 44, 45].
+
+---
+
+[+ Volver al índice](../INDICE.md)

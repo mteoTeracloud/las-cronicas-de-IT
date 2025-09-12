@@ -54,3 +54,7 @@ Ambos actualizan tu rama, pero lo hacen de distinta manera.
 
 > - Trabajo en equipo → usar **merge**.
 > - Mantener tu rama limpia antes de abrir un PR → usar **rebase**.
+
+---
+
+[+ Volver al índice](../INDICE.md)
