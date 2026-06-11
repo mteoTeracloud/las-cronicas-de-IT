@@ -33,3 +33,5 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 - 12/09 - *federico-santi_tips-para-productividad.md* (Tips para mejorar la productividad para linux y windows basandose en experiencias previas) → [📎 Abrir](CAPITULOS/federico-santi_tips-para-productividad.md)
 
 - 15/09 - *aws-cloud.md* (introducción a conceptos clave de AWS y acceso a recurso comprimido para estudio complementario) → [📎 Abrir](CAPITULOS/aws-cloud.md)
+
+- 11/06/26 - *Cheatsheet GitFlow* (cheatsheet de los comandos básicos de GIT Flow) → [📎 Abrir](CAPITULOS/cheatsheet_git_flow.md)
