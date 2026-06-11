@@ -37,3 +37,5 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 - 11/06/26 - *Cheatsheet GitFlow* (cheatsheet de los comandos básicos de GIT Flow) → [📎 Abrir](CAPITULOS/cheatsheet_git_flow.md)
 
 - 11/06/26 - *OverTheWire Bandit* (introducción a wargames, con foco en Bandit y recursos de referencia) → [📎 Abrir](CAPITULOS/overTheWire-bandit.md)
+
+- 11/06/26 - *CMD Challenge* (plataforma de práctica para terminal Linux mediante desafíos progresivos) → [📎 Abrir](CAPITULOS/cmd-challenge.md)
