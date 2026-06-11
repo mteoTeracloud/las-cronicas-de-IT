@@ -35,3 +35,5 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 - 15/09 - *aws-cloud.md* (introducción a conceptos clave de AWS y acceso a recurso comprimido para estudio complementario) → [📎 Abrir](CAPITULOS/aws-cloud.md)
 
 - 11/06/26 - *Cheatsheet GitFlow* (cheatsheet de los comandos básicos de GIT Flow) → [📎 Abrir](CAPITULOS/cheatsheet_git_flow.md)
+
+- 11/06/26 - *OverTheWire Bandit* (introducción a wargames, con foco en Bandit y recursos de referencia) → [📎 Abrir](CAPITULOS/overTheWire-bandit.md)
