@@ -44,4 +44,4 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 
 - 12/06/26 - *Cloud Computing* (introducción a conceptos básicos de cloud computing) → [📎 Abrir](CAPITULOS/cloud-computing.md) 
 
-- 12/06/26 - *Solutions architect associate material teorico* (Diferentes links Con informacion teorica y documentacion sobre servicios de aws enfocados al saa C-03) → [📎 Abrir](CAPITULOS/material-saa.md)
+- 12/06/26 - *Solutions architect associate material* (Diferentes links Con informacion teorica y documentacion sobre servicios de aws enfocados al saa C-03) → [📎 Abrir](CAPITULOS/material-saa.md)
