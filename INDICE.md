@@ -43,3 +43,5 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 - 12/06/26 - *La Autopista Digital: Redes* (Resumen didáctico sobre el funcionamiento de internet por capas: física, enlace, red, transporte y aplicación) → [📎 Abrir](CAPITULOS/reconstruyendo-internet-video.md)
 
 - 12/06/26 - *Cloud Computing* (introducción a conceptos básicos de cloud computing) → [📎 Abrir](CAPITULOS/cloud-computing.md) 
+
+- 12/06/26 - *MarioBash* → [📎 Abrir](CAPITULOS/MarioBash.md)
