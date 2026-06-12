@@ -39,3 +39,5 @@ No importa si es útil, absurdo o gracioso: lo importante es que figure en el í
 - 11/06/26 - *OverTheWire Bandit* (introducción a wargames, con foco en Bandit y recursos de referencia) → [📎 Abrir](CAPITULOS/overTheWire-bandit.md)
 
 - 11/06/26 - *CMD Challenge* (plataforma de práctica para terminal Linux mediante desafíos progresivos) → [📎 Abrir](CAPITULOS/cmd-challenge.md)
+
+- 12/06/26 - *La Autopista Digital: Redes* (Resumen didáctico sobre el funcionamiento de internet por capas: física, enlace, red, transporte y aplicación) → [📎 Abrir](CAPITULOS/reconstruyendo-internet-video.md)
